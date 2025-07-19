@@ -16,9 +16,6 @@ You provide a topic, and the AI crew handles the rest, delivering a polished mar
 
 <br>
 
-*Replace this with a GIF of your project in action!*
-![Project Demo GIF](https://placehold.co/800x400/171717/FFFFFF?text=Project+Demo+GIF)
-
 ---
 
 ## 🤖 Meet the Crew
